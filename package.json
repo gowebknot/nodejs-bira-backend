@@ -1,7 +1,7 @@
 {
   "name": "nodejs-bira-backend",
   "version": "1.0.0",
-  "description": "Getting start code for \"NodeJS Bira Frontend\"",
+  "description": "Getting start code for \"NodeJS Bira Backend\"",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js"

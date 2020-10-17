@@ -1,10 +1,15 @@
 # NodeJS Bira Backend
 
+Getting start code for **NodeJS Bira Backend**.
+
 ## Prerequisite
 
 - NodeJS
 - VSCode
   - Extensions - Prettier, ESlint, EditorConfig
+- MongoDB - Atlas
+- VSCode
+- Postman
 
 ## Technology
 
@@ -17,7 +22,7 @@
 - After cloning/forking
 
 ```sh
-cd NodeJS-Bira-Backend
+cd nodejs-bira-backend
 
 npm install
 
